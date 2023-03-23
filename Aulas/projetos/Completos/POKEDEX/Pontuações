@@ -1,0 +1,6 @@
+O style é colocado dentro do head, pois ele le primeiro as informações do site, pra depois ler os scripts que vai dentro
+do body 
+Entender mais sobre CDN 
+Uma boa pratica é aplicar a tecnica mobile first, que consiste em configurar primeiro para mobile e depois para pratica
+se nao fazer isso acaba que vai ter que reescrever muito codigo de novo
+APi, é um servidor de dados, ele te serve informações/dados, 
